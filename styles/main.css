@@ -6,6 +6,7 @@
 *{
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -13,7 +14,7 @@ html {
 }
 
 body{
-  background: #f0f0f9;
+  background: #f0f0f9d2;
   -webkit-font-smoothing: antialiased;
 }
 
